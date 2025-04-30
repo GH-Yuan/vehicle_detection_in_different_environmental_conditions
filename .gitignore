@@ -1,0 +1,16 @@
+/v5su.cache
+/v5su.engine
+/v5su.onnx
+/v5su.pt
+/v8s.cache
+/v8s.engine
+/v8s.onnx
+/v8s.pt
+/v8sbest.cache
+/v8sbest.engine
+/v8sbest.onnx
+/v8sbest.pt
+/last_ssd_model.pth
+/utils/__pycache__
+/webui
+/.trae
